@@ -13,4 +13,6 @@ $ git clone https://github.com/SllowlyDev/CreateFB
 
 $ cd CreateFB
 
+$ git pull
+
 $ python Create.py
