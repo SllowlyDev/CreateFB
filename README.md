@@ -1,6 +1,4 @@
-# CreateFB
 # PREMIUM TOOLS CREATE FACEBOOK
-
 # INSTALL MODULE AWAL 
 
 $ pkg update && upgrade
